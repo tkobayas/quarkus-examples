@@ -1,9 +1,0 @@
-2019-04-06 11:25:49,904 tkobayas getting-started-1.0-SNAPSHOT-runner.jar[8087] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
-2019-04-06 11:25:49,928 tkobayas getting-started-1.0-SNAPSHOT-runner.jar[8087] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
-2019-04-06 11:25:49,981 tkobayas getting-started-1.0-SNAPSHOT-runner.jar[8087] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
-2019-04-06 11:25:50,030 tkobayas getting-started-1.0-SNAPSHOT-runner.jar[8087] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.558s. Listening on: http://[::]:8080
-2019-04-06 11:25:50,033 tkobayas getting-started-1.0-SNAPSHOT-runner.jar[8087] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
-2019-04-06 11:25:56,009 tkobayas getting-started-1.0-SNAPSHOT-runner.jar[8087] INFO  [io.quarkus] (main) Quarkus stopped in 0.005s
-2019-04-06 11:47:31,983 tkobayas getting-started-1.0-SNAPSHOT-runner[11068] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.003s. Listening on: http://[::]:8080
-2019-04-06 11:47:31,984 tkobayas getting-started-1.0-SNAPSHOT-runner[11068] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
-2019-04-06 11:47:39,868 tkobayas getting-started-1.0-SNAPSHOT-runner[11068] INFO  [io.quarkus] (main) Quarkus stopped in 0.001s
