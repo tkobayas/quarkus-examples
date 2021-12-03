@@ -1,10 +1,17 @@
 target/
-.settings/
-.classpath
-.project
-*~
-.tern-project
-.metadata
-.recommenders/
-bin/
+local/
 
+# Eclipse, Netbeans and IntelliJ files
+.*
+!.gitignore
+!.github
+nbproject
+*.ipr
+*.iws
+*.iml
+
+# generated files
+dependency-reduced-pom.xml
+
+#CI
+!.ci
